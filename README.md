@@ -1,1 +1,2 @@
-Página simples de login, utilizando HTML e CSS
+Página simples de login, utilizando HTML e CSS utilizando transições . 
+Aprendi esse projeto através de um tutorial do youtube e modifiquei de acordo com meu estilo.
